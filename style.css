@@ -237,6 +237,9 @@ footer{
         margin-top: 20px;
         width: 80%;
     }
+    .recherche input{
+        font-size: 0.8rem;
+    }
     .recherche3{
         display: none;
     }
@@ -274,4 +277,7 @@ footer{
         display: grid;
         grid-template-columns: 2fr;
     }    
+    .recherche input{
+        font-size: 0.6rem;
+    }
 }
